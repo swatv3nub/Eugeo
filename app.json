@@ -1,5 +1,5 @@
 {
-      "name": "Harita",
+      "name": "Eugeo",
       "description": "A Telethon based Telegram group management bot.",
       "logo": "https://telegra.ph/file/8f121a6cbded3de42ffdd.jpg",
       "keywords": [
@@ -9,7 +9,7 @@
          "manager",
          "Miley"
       ],   
-   "repository": "https://github.com/TeamEviral/HaritaRobot",
+   "repository": "https://github.com/swatv3nub/Eugeo",
    "addons": [
       {
          "options": {
@@ -29,8 +29,8 @@
          "required": true,
          "value": ""
       },
-      "API_KEY": {
-         "description": "Get API_KEY from my.telegram.org, used for telethon based modules.",
+      "API_ID": {
+         "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
          "value": ""
       },
@@ -59,7 +59,7 @@
          "value": ""
       },      
       "BOT_ID": {
-         "description": "Id of the bot. Get it by using others bot",
+         "description": "Id of the bot",
          "required": true,
          "value": ""
       },
@@ -76,7 +76,7 @@
       "UPSTREAM_REPO_URL": {
          "description": "Required for Update module",
          "required": true,
-         "value": "https://github.com/TeamEviral/HaritaRobot"
+         "value": "https://github.com/swatv3nub/Eugeo"
       }
    },
    "keywords": [
@@ -86,6 +86,4 @@
       "manager",
       "Miley"
    ],
-   "name": "Harita",
-   "repository": "https://github.com/TeamEviral/HaritaRobot"
 }

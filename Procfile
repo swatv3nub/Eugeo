@@ -1,1 +1,1 @@
-worker: python3 -m Harita
+worker: python3 -m eugeo
